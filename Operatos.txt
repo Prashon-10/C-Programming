@@ -1,0 +1,3 @@
+(+5)=> unary operations;
+"*"==>Precedence HIGH than "+"
+

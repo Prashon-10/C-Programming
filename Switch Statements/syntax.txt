@@ -1,0 +1,29 @@
+// We use switch statement in following cases:
+
+// if , 
+// elseif(), 
+// else;
+
+// //Program
+
+// Enter the integer value():
+// 1.add
+// 2.sub
+// 3.mul
+// 4.div
+// 5.mod
+
+// Enter your choice:
+
+    case '*':
+        c = a * b;
+        printf("The product of %d and %d is %d", a, b, c);
+        break;
+    case '/':
+        c = a / b;
+        printf("The quotient of %d and %d is %d", a, b, c);
+        break;
+    default:
+        printf("Invalid operator");
+        break;
+
